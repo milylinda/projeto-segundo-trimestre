@@ -49,3 +49,5 @@ const perguntas = [
         perguntaAtual = perguntas[atual];
         caixaPerguntas.textContent = perguntaAtual.enunciado;
     }
+
+    mostraPergunta();
